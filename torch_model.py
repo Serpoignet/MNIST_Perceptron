@@ -9,7 +9,9 @@ from torch.autograd import Variable
 import torchvision
 import torchvision.transforms as transforms
 import os
+import sklearn
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.datasets import fetch_mldata
 
 import pandas as pd
 
