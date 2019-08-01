@@ -16,3 +16,5 @@ X = pd.DataFrame(mnist.data)
 # %%
 print(y.value_counts())
 print(X.describe())
+
+print("Here we goooooo !")
