@@ -1,1 +1,0 @@
-https://www.kaggle.com/dsaichand3/mnist-classifier-in-pytorch
