@@ -56,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Tensorboard output
+runs/
+all_scalars.json
+
+.ipynb_checkpoints/
